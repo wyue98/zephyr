@@ -2,7 +2,7 @@
 # as a demonstration of an API spec in YAML
 swagger: '2.0'
 info:
-  title: Test2 API
+  title: Test API
   description: Move your app forward with the Test API
   version: "1.0"
 # the domain of the service
