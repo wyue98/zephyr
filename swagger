@@ -6,7 +6,7 @@ info:
   description: Move your app forward with the Test API
   version: "1.0"
 # the domain of the service
-host: api.test.com
+host: api2.test.com
 # array of all schemes that your API supports
 schemes:
   - https
